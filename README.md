@@ -45,6 +45,7 @@ Methods that from noise sample protein structures, e.g. backbones.
   [![](https://img.shields.io/badge/arxiv-2301.12485-lightgrey)](https://arxiv.org/abs/2301.12485)
     - Backbone diffusion
   - Anand/Achim
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/lucidrains/ddpm-ipa-protein-generation/tree/main)
   [![](https://img.shields.io/badge/arxiv-2205.15019-lightgrey)](https://arxiv.org/abs/2205.15019)
     - Backbone or rotamer diffusion
   - ProteinSGM
@@ -74,6 +75,7 @@ Methods that from noise sample sequences, e.g. residue unmasking.
   [![](https://img.shields.io/badge/arxiv-2306.16819-lightgrey)](https://arxiv.org/abs/2306.16819)
     - Inverse protein folding: from structure to sequence
   - Anand/Achim
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/lucidrains/ddpm-ipa-protein-generation/tree/main)
   [![](https://img.shields.io/badge/arxiv-2205.15019-lightgrey)](https://arxiv.org/abs/2205.15019)
     - Masked residue inpaining
   - ProteinDT
