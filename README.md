@@ -77,6 +77,7 @@ Methods that from noise sample sequences, e.g. residue unmasking.
   [![](https://img.shields.io/badge/arxiv-2205.15019-lightgrey)](https://arxiv.org/abs/2205.15019)
     - Masked residue inpaining
   - ProteinDT
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/chao1224/ProteinDT)
   [![](https://img.shields.io/badge/arxiv-2302.04611-lightgrey)](https://arxiv.org/abs/2302.04611)
     - Conditional (from pLM & text) protein sequence generation
   - Frey/Prescient
