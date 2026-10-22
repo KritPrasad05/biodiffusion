@@ -71,6 +71,7 @@ Methods that from noise sample sequences, e.g. residue unmasking.
   [![](https://img.shields.io/badge/DOI-10.1101%2F2023.05.08.539766-lightgrey)](https://doi.org/10.1101/2023.05.08.539766)
     - Sequence space diffusion
   - GraDe-IF
+  [![](https://img.shields.io/badge/repo-PyTorch-yellowgreen)](https://github.com/ykiiiiii/GraDe_IF)
   [![](https://img.shields.io/badge/arxiv-2306.16819-lightgrey)](https://arxiv.org/abs/2306.16819)
     - Inverse protein folding: from structure to sequence
   - Anand/Achim
